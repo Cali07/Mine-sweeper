@@ -24,7 +24,7 @@ Our Minesweeper project boasts a number of engaging features:
 This game requires Python 3.8 or later. Follow these instructions to get a copy running on your local machine:
 
 ```bash
-git clone https://github.com/your-repository/minesweeper.git
+https://github.com/Cali07/Mine-sweeper.git
 cd minesweeper
 ```
 
@@ -57,5 +57,3 @@ A huge thank you to our contributors and users for making this project possible.
 Please don't hesitate to reach out if you have any questions, suggestions, or feedback. Enjoy your Minesweeper adventure! 🎉
 
 ---
-
-Don't forget to replace placeholders such as `your-repository` with your actual GitHub repository information.
