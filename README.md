@@ -1,0 +1,2 @@
+# Mine-sweeper
+School project
